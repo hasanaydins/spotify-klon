@@ -1,3 +1,4 @@
 # spotify-klon
-spotify sitesini sıfırdan ayınısı yapıldı
+spotify sitesine benzetilmeye calısıldı.
+
 Sayfayı acmak icin : https://hasanaydins.github.io/spotify-klon/
